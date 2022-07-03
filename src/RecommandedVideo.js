@@ -68,8 +68,17 @@ function RecommandedVideo() {
           views="3M Views"
           timestamp="4weeks ago"
           channelImage="https://upload.wikimedia.org/wikipedia/commons/8/85/HinhMdm_red_resize-400x400fill.jpg"
-          channel="Sonny Sangha"
+          channel="Public Relations"
           image="https://upload.wikimedia.org/wikipedia/commons/1/10/Welcome2WP_English_082310-thumbnails.png"
+        />
+        <VideoCard
+          title="🌍Learn Arabic for general communication worldwide"
+          views="3M Views"
+          timestamp="4weeks ago"
+          channelImage="https://upload.wikimedia.org/wikipedia/commons/8/85/HinhMdm_red_resize-400x400fill.jpg"
+          channel="Public Relations"
+          image="https://upload.wikimedia.org/wikipedia/commons/a/a6/%D8%A3%D8%AD%D9%85%D8%AF_%D9%85%D8%AD%D9%85%D8%AF_%D8%B5%D9%81%D9%88%D8%AA_-_%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%D9%86%D8%A7_%D8%A7%D9%84%D8%AD%D8%A7%D9%81%D9%84_%D9%8A%D9%88%D8%AA%D9%8A%D9%88%D8%A8.jpg"
+          description="Files are available under licenses specified on their description page. All structured data from the file namespace is available under the"
         />
       </div>
     </div>
